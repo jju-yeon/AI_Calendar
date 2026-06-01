@@ -30,9 +30,13 @@
 
 ```bash
 python train_calendar_model.py
+```
 
 학습이 완료되면 모델은 다음 경로에 저장됩니다.
+
+```bash
 ai_model/calendar_json_model/
+```
 
 ## 프로젝트 구조
 
